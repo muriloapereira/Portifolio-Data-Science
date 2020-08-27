@@ -20,6 +20,6 @@ Profissional graduando em Análise e Desenvolvimento de Sistemas, com sólido co
 ## Projetos:
 Veja os projetos publicados do Murilo:
 
-* **Dashboard de Vendas:** https://github.com/muriloapereira/Dashboard-de-Vendas
+* **Dashboard de Vendas:** https://bit.ly/34Fwsk8
 * 
 ---
