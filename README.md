@@ -7,13 +7,13 @@
 # Murilo A Pereira
 <sub>*Cientista de Dados | Analista de Dados</sub>
 
-Profissional graduando em Análise e Desenvolvimento de Sistemas, com sólido conhecimento em Tecnologia da Informação, à procura de uma oportunidade na área onde eu possa aprimorar e expandir meus conhecimentos, visando sempre uma boa qualificação profissional. Sólido conhecimento em HTML, CSS, JavaScript, Python, Bancos de Dados, SQL Server, Modelagem de Dados, Power BI, Scrum, Trello e Office. Profissional altamente capacitado para trabalhar em equipe, dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal. Organizado, responsável e com facilidade em adaptar-se à mudanças.
+Profissional graduando em Análise e Desenvolvimento de Sistemas, com sólido conhecimento em Tecnologia da Informação, à procura de uma oportunidade na área onde eu possa aprimorar e expandir meus conhecimentos, visando sempre uma boa qualificação profissional. Sólido conhecimento em Bancos de Dados, SQL Server, Modelagem de Dados, Scrum, Trello e Office. Profissional altamente capacitado para trabalhar em equipe, dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal. Organizado, responsável e com facilidade em adaptar-se à mudanças.
 
 **Background in:** Análise e Desenvolvimento de Sistemas | Business Intelligence | Ciência de Dados | TI | Análise de Sistemas | Desenvolvimento de Sistemas | HTML | CSS | Power BI | SQL | Python | Banco de Dados | Scrum.
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/murilo-a-pereira)
+* [LinkedIn](https://www.linkedin.com/in/muriloapereira/)
 
 
 
