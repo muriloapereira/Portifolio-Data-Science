@@ -21,5 +21,6 @@ Profissional graduando em Análise e Desenvolvimento de Sistemas, com sólido co
 Veja os projetos publicados do Murilo:
 
 * **Dashboard de Vendas:** https://bit.ly/34Fwsk8
-* 
+* **Dashboard Financeiro:** https://bit.ly/3hp3xr3
+* **Power BI - Data Science Academy:** https://bit.ly/3uQ0FqR
 ---
